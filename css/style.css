@@ -22,7 +22,8 @@
         }
         .project-img-3 {
             background-image: url('https://i.scdn.co/image/ab67616d0000b27323a8321bd17fe693210812fe');
-        }
+            background-size: cover;
+            background-position: center;        }
         #modal-message {
             display: none;
             position: fixed;
