@@ -1,0 +1,117 @@
+ /* #homepage{
+            background-image: url("./Pic/mainpic.jpeg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        } */
+
+        /* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f7f7f7;
+        }
+        .text-shadow-outline {
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        /* Custom styles for the hamburger menu icon */
+        /*.menu-icon {
+            cursor: pointer;
+            z-index: 20; /* Ensure icon is on top 
+            position: relative;
+        }
+        .menu-icon span {
+            display: block;
+            width: 25px;
+            height: 3px;
+            background-color: #333;
+            margin: 5px 0;
+            transition: all 0.3s ease-in-out;
+        }
+        .menu-icon.open span:nth-child(1) {
+            transform: rotate(-45deg) translate(-5px, 6px);
+        }
+        .menu-icon.open span:nth-child(2) {
+            opacity: 0;
+        }
+        .menu-icon.open span:nth-child(3) {
+            transform: rotate(45deg) translate(-5px, -6px);
+        }
+        /* Specific mobile menu styling 
+        .mobile-nav-menu {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background-color: white;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 10;
+            transition: all 0.3s ease-in-out;
+            transform: translateX(-100%);
+        }
+        .mobile-nav-menu.open {
+            transform: translateX(0);
+        }
+     */
+     
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .header-logo {
+            background-image: url('../Pic/profile\ pic.jpg');
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .home-bg {
+            background-image: url('../Pic/pexels-apasaric-325185.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+        .project-img-1 {
+            background-image: url('../Pic/TODOLIST.png');
+        }
+        .project-img-2 {
+            background-image: url('https://placehold.co/400x250/555555/ffffff?text= COMING SOON');
+        }
+        .project-img-3 {
+            background-image: url('https://placehold.co/400x250/777777/ffffff?text= COMING SOON');
+        }
+        #modal-message {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 400px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .close-button {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close-button:hover,
+        .close-button:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
