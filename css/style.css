@@ -15,13 +15,13 @@
             background-position: center;
         }
         .project-img-1 {
-            background-image: url('/Pic/TODOLIST.png');
+            background-image: url('https://i.pinimg.com/736x/51/81/9c/51819c0566eb155d5f90f9d4967da4ee.jpg');
         }
         .project-img-2 {
-            background-image: url('https://placehold.co/400x250/555555/ffffff?text= COMING+SOON');
+            background-image: url('https://i.scdn.co/image/ab67616d0000b27323a8321bd17fe693210812fe');
         }
         .project-img-3 {
-            background-image: url('https://placehold.co/400x250/777777/ffffff?text= COMING+SOON');
+            background-image: url('https://i.scdn.co/image/ab67616d0000b27323a8321bd17fe693210812fe');
         }
         #modal-message {
             display: none;
