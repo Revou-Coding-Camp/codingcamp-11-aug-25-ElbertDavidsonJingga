@@ -5,7 +5,7 @@
         .header-logo {
             background-image: url('../Pic/profile\ pic.jpg');
             background-position: center;
-            /* background-repeat: no-repeat; */
+            background-repeat: no-repeat;
             background-size: cover;
         }
         .home-bg {
@@ -18,7 +18,7 @@
             background-image: url('https://i.pinimg.com/736x/51/81/9c/51819c0566eb155d5f90f9d4967da4ee.jpg');
         }
         .project-img-2 {
-            background-image: url('https://i.scdn.co/image/ab67616d0000b27323a8321bd17fe693210812fe');
+            background-image: url('https://marketplace.canva.com/EAGFdr5xrIY/1/0/1600w/canva-beige-and-brown-elegant-coming-soon-instagram-post-rCVKQbzDkrc.jpg');
         }
         .project-img-3 {
             background-image: url('https://i.scdn.co/image/ab67616d0000b27323a8321bd17fe693210812fe');
