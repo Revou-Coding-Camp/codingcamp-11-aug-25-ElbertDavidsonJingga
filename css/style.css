@@ -61,19 +61,19 @@
             font-family: 'Inter', sans-serif;
         }
         .header-logo {
-            background-image: url('../Pic/profile\ pic.jpg');
+            background-image: url('https://images.pexels.com/photos/307847/pexels-photo-307847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
         }
         .home-bg {
-            background-image: url('../Pic/pexels-apasaric-325185.jpg');
+            background-image: url('https://images.pexels.com/photos/135018/pexels-photo-135018.jpeg');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
         }
         .project-img-1 {
-            background-image: url('../Pic/TODOLIST.png');
+            background-image: url('https://i.pinimg.com/736x/51/81/9c/51819c0566eb155d5f90f9d4967da4ee.jpg');
         }
         .project-img-2 {
             background-image: url('https://placehold.co/400x250/555555/ffffff?text= COMING SOON');
